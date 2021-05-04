@@ -1,0 +1,10 @@
+import Base.Base;
+import org.junit.Test;
+
+public class TestLoadPage extends Base {
+    @Test
+    public void TestLoadPage(){
+        loadHomePage();
+
+    }
+}
